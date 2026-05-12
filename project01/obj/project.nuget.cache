@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QFiVkQQ2uSE=",
+  "dgSpecHash": "5hhH2aNlUik=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\project01.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\project01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anoud\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\anoud\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\anoud\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\anoud\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

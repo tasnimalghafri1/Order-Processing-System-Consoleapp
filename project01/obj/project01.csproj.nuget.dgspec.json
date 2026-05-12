@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\project01.csproj": {}
+    "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\project01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\project01.csproj": {
+    "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\project01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\project01.csproj",
+        "projectUniqueName": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\project01.csproj",
         "projectName": "project01",
-        "projectPath": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\project01.csproj",
-        "packagesPath": "C:\\Users\\tasni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\obj\\",
+        "projectPath": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\project01.csproj",
+        "packagesPath": "C:\\Users\\anoud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tasni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -62,12 +62,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.26, 8.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.26, 8.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.26, 8.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.26, 8.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300-preview.0.26177.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
