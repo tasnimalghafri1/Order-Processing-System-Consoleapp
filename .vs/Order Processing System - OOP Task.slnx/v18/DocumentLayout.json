@@ -58,8 +58,7 @@
               "RelativeToolTip": "project01\\Enums\\OrderStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T05:51:32.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T05:51:32.254Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "project01\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T05:50:41.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T05:50:41.422Z"
             },
             {
               "$type": "Document",
@@ -82,7 +80,7 @@
               "RelativeDocumentMoniker": "project01\\Order.cs",
               "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\Order.cs",
               "RelativeToolTip": "project01\\Order.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T05:50:15.526Z",
               "EditorCaption": ""
@@ -97,21 +95,19 @@
               "RelativeToolTip": "project01\\ElectronicsProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T04:58:58.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T04:58:58.736Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "project01",
+              "Title": "project01.csproj",
               "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\project01.csproj",
               "RelativeDocumentMoniker": "project01\\project01.csproj",
               "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\project01.csproj",
               "RelativeToolTip": "project01\\project01.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-12T05:50:27.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T05:50:27.092Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "project01\\ClothingProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T04:59:16.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T04:59:16.922Z"
             },
             {
               "$type": "Document",

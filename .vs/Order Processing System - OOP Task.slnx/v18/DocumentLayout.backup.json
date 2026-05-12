@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\order-processing-system-consoleapp\\project01\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\order-processing-system-consoleapp\\project01\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\order-processing-system-consoleapp\\project01\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\order-processing-system-consoleapp\\project01\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\order-processing-system-consoleapp\\project01\\project01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\project01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\order-processing-system-consoleapp\\project01\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\order-processing-system-consoleapp\\project01\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\order-processing-system-consoleapp\\project01\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\widaa\\onedrive\\desktop\\backend-soultion\\order-processing-system-consoleapp\\project01\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,15 +50,42 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\Product.cs",
-              "RelativeDocumentMoniker": "project01\\Product.cs",
-              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\Product.cs",
-              "RelativeToolTip": "project01\\Product.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwDIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "project01\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "project01\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T04:58:32.014Z"
+              "WhenOpened": "2026-05-12T05:51:32.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\OrderItem.cs",
+              "RelativeDocumentMoniker": "project01\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\OrderItem.cs",
+              "RelativeToolTip": "project01\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:50:41.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\Order.cs",
+              "RelativeDocumentMoniker": "project01\\Order.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\Order.cs",
+              "RelativeToolTip": "project01\\Order.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T05:50:15.526Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -54,11 +97,37 @@
               "RelativeToolTip": "project01\\ElectronicsProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T04:58:58.736Z"
+              "WhenOpened": "2026-05-12T04:58:58.736Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "project01",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\project01.csproj",
+              "RelativeDocumentMoniker": "project01\\project01.csproj",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\project01.csproj",
+              "RelativeToolTip": "project01\\project01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T05:50:27.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\Product.cs",
+              "RelativeDocumentMoniker": "project01\\Product.cs",
+              "ToolTip": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\Product.cs",
+              "RelativeToolTip": "project01\\Product.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:58:32.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ClothingProduct.cs",
               "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\ClothingProduct.cs",
               "RelativeDocumentMoniker": "project01\\ClothingProduct.cs",
@@ -71,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\Customer.cs",
               "RelativeDocumentMoniker": "project01\\Customer.cs",
@@ -83,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\Program.cs",
               "RelativeDocumentMoniker": "project01\\Program.cs",
