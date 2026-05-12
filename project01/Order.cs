@@ -53,7 +53,7 @@ namespace OrderProcessingSystem.Models
             }
         }
 
-        // Calculate total
+        // Calculate totall
         public double CalculateTotal()
         {
             return Items.Sum(item => item.SubTotal);
