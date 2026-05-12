@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\",
+  "WorkspaceRootPath": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44706B8F-5C0A-494A-AE1A-DDAA535B77D3}|project01\\project01.csproj|c:\\users\\tasni\\onedrive\\desktop\\backend\\order processing system - oop task\\project01\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44706B8F-5C0A-494A-AE1A-DDAA535B77D3}|project01\\project01.csproj|solutionrelative:project01\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\order-processing-system-consoleapp\\project01\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44706B8F-5C0A-494A-AE1A-DDAA535B77D3}|project01\\project01.csproj|c:\\users\\tasni\\onedrive\\desktop\\backend\\order processing system - oop task\\project01\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44706B8F-5C0A-494A-AE1A-DDAA535B77D3}|project01\\project01.csproj|solutionrelative:project01\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\order-processing-system-consoleapp\\project01\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44706B8F-5C0A-494A-AE1A-DDAA535B77D3}|project01\\project01.csproj|c:\\users\\tasni\\onedrive\\desktop\\backend\\order processing system - oop task\\project01\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44706B8F-5C0A-494A-AE1A-DDAA535B77D3}|project01\\project01.csproj|solutionrelative:project01\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\order-processing-system-consoleapp\\project01\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44706B8F-5C0A-494A-AE1A-DDAA535B77D3}|project01\\project01.csproj|c:\\users\\tasni\\onedrive\\desktop\\backend\\order processing system - oop task\\project01\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44706B8F-5C0A-494A-AE1A-DDAA535B77D3}|project01\\project01.csproj|solutionrelative:project01\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\order-processing-system-consoleapp\\project01\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44706B8F-5C0A-494A-AE1A-DDAA535B77D3}|project01\\project01.csproj|c:\\users\\tasni\\onedrive\\desktop\\backend\\order processing system - oop task\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44706B8F-5C0A-494A-AE1A-DDAA535B77D3}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\anoud\\onedrive\\desktop\\backend\\order-processing-system-consoleapp\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +34,35 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\Product.cs",
               "RelativeDocumentMoniker": "project01\\Product.cs",
-              "ToolTip": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\Product.cs",
+              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\Product.cs",
               "RelativeToolTip": "project01\\Product.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAuwDIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T04:58:32.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T04:58:32.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ElectronicsProduct.cs",
-              "DocumentMoniker": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\ElectronicsProduct.cs",
+              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\ElectronicsProduct.cs",
               "RelativeDocumentMoniker": "project01\\ElectronicsProduct.cs",
-              "ToolTip": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\ElectronicsProduct.cs",
+              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\ElectronicsProduct.cs",
               "RelativeToolTip": "project01\\ElectronicsProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T04:58:58.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T04:58:58.736Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClothingProduct.cs",
-              "DocumentMoniker": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\ClothingProduct.cs",
+              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\ClothingProduct.cs",
               "RelativeDocumentMoniker": "project01\\ClothingProduct.cs",
-              "ToolTip": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\ClothingProduct.cs",
+              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\ClothingProduct.cs",
               "RelativeToolTip": "project01\\ClothingProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,27 +73,25 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\Customer.cs",
               "RelativeDocumentMoniker": "project01\\Customer.cs",
-              "ToolTip": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\Customer.cs",
+              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\Customer.cs",
               "RelativeToolTip": "project01\\Customer.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA8wCsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T04:58:05.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T04:58:05.172Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\Program.cs",
               "RelativeDocumentMoniker": "project01\\Program.cs",
-              "ToolTip": "C:\\Users\\tasni\\OneDrive\\Desktop\\Backend\\Order Processing System - OOP Task\\project01\\Program.cs",
+              "ToolTip": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\Program.cs",
               "RelativeToolTip": "project01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T04:57:12.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T04:57:12.216Z"
             }
           ]
         }
