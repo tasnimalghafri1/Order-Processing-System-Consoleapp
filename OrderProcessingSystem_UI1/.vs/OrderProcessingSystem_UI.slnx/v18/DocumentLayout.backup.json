@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\forms\\customersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\forms\\customersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0F2E6D-DD68-40D9-B786-81E3BE0BF745}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\orderprocessingsystem_ui\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF0F2E6D-DD68-40D9-B786-81E3BE0BF745}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0F2E6D-DD68-40D9-B786-81E3BE0BF745}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\orderprocessingsystem_ui\\forms\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF0F2E6D-DD68-40D9-B786-81E3BE0BF745}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\forms\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF0F2E6D-DD68-40D9-B786-81E3BE0BF745}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\orderprocessingsystem_ui\\forms\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF0F2E6D-DD68-40D9-B786-81E3BE0BF745}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\forms\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\forms\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\forms\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\forms\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\forms\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\payment\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\payment\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\payment\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\payment\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\payment\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\payment\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\payment\\basepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\payment\\basepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\interfaces\\ishippable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\interfaces\\ishippable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\interfaces\\ipayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\interfaces\\ipayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\forms\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\orderprocessingsystem_ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\orderprocessingsystem_ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\models\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\models\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\models\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\models\\electronicsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\orderprocessingsystem_ui1\\orderprocessingsystem_ui\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770DAEF1-DB7C-9D9F-2B4C-D1040B8425B4}|OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj|solutionrelative:orderprocessingsystem_ui\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Forms\\CustomersForm.Designer.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Forms\\CustomersForm.Designer.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Forms\\CustomersForm.Designer.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Forms\\CustomersForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:55:26.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI\\OrderProcessingSystem_UI\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\OrderProcessingSystem_UI\\OrderProcessingSystem_UI\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:51:05.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Forms\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Forms\\PaymentForm.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Forms\\PaymentForm.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Forms\\PaymentForm.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAcwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:33:15.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Models\\Order.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Models\\Order.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwKAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:35:06.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Forms\\MainForm.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:35:57.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomersForm.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Forms\\CustomersForm.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Forms\\CustomersForm.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Forms\\CustomersForm.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Forms\\CustomersForm.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAswD8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:20:57.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Forms\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Forms\\PaymentForm.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI\\OrderProcessingSystem_UI\\Forms\\PaymentForm.cs [Design]",
+              "RelativeToolTip": "..\\OrderProcessingSystem_UI\\OrderProcessingSystem_UI\\Forms\\PaymentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:45:44.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Payment\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Payment\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Payment\\CreditCardPayment.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Payment\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:32:09.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CashPayment.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Payment\\CashPayment.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Payment\\CashPayment.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Payment\\CashPayment.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Payment\\CashPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:31:38.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaypalPayment.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Payment\\PaypalPayment.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Payment\\PaypalPayment.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Payment\\PaypalPayment.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Payment\\PaypalPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:32:41.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BasePayment.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Payment\\BasePayment.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Payment\\BasePayment.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Payment\\BasePayment.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Payment\\BasePayment.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:31:04.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Forms\\CustomersForm.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Forms\\CustomersForm.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI\\OrderProcessingSystem_UI\\Forms\\CustomersForm.cs [Design]",
+              "RelativeToolTip": "..\\OrderProcessingSystem_UI\\OrderProcessingSystem_UI\\Forms\\CustomersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:20:27.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Models\\Product.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Models\\Product.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:18:23.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Program.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Program.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Program.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:37:17.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IShippable.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Interfaces\\IShippable.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Interfaces\\IShippable.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Interfaces\\IShippable.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Interfaces\\IShippable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:30:30.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPayable.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Interfaces\\IPayable.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Interfaces\\IPayable.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Interfaces\\IPayable.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Interfaces\\IPayable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:29:58.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsForm.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Forms\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Forms\\ProductsForm.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Forms\\ProductsForm.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Forms\\ProductsForm.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAiwMYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:25:01.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderProcessingSystem_UI.csproj",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\OrderProcessingSystem_UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T11:15:43.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClothingProduct.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Models\\ClothingProduct.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Models\\ClothingProduct.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Models\\ClothingProduct.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Models\\ClothingProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:24:23.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ElectronicsProduct.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Models\\ElectronicsProduct.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Models\\ElectronicsProduct.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Models\\ElectronicsProduct.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Models\\ElectronicsProduct.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:23:42.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Models\\OrderItem.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:19:02.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "OrderProcessingSystem_UI\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\OrderProcessingSystem_UI1\\OrderProcessingSystem_UI\\Models\\Customer.cs",
+              "RelativeToolTip": "OrderProcessingSystem_UI\\Models\\Customer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:16:37.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
