@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\project01.csproj": {}
+    "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\project01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\project01.csproj": {
+    "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\project01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\project01.csproj",
+        "projectUniqueName": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\project01.csproj",
         "projectName": "project01",
-        "projectPath": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\project01.csproj",
-        "packagesPath": "C:\\Users\\anoud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anoud\\OneDrive\\Desktop\\BackEnd\\Order-Processing-System-Consoleapp\\project01\\obj\\",
+        "projectPath": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\project01.csproj",
+        "packagesPath": "C:\\Users\\widaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\widaa\\OneDrive\\Desktop\\Backend-Soultion\\Order-Processing-System-Consoleapp\\project01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\anoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\widaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,7 +30,6 @@
         },
         "frameworks": {
           "net8.0": {
-            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -49,7 +48,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "framework": "net8.0",
           "targetAlias": "net8.0",
           "imports": [
             "net461",
@@ -62,30 +60,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.26, 8.0.26]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.26, 8.0.26]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.26, 8.0.26]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.26, 8.0.26]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
