@@ -15,7 +15,7 @@
         // Polymorphism
         public override double CalculateDiscount()
         {
-            return Price * 0.20; // 20% Discountttt
+            return Price * 0.20; // 20% Discountt
         }
     }
 }
